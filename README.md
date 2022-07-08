@@ -3,6 +3,8 @@ Pomodoro Timer with Sound
 
 ## To Run
 $ python3 main.py
+#### Maybe you need to install sox to active the sound by    
+sudo apt install sox   
 
 ## Description
        
